@@ -1,1 +1,5 @@
-*** Notice! *** This project was design by MakLanDEV and it was build with help of ai (freebuff.com)
+⚠️ NOTICE
+
+«This project was designed by "MakLanDEV" (#) and developed with the assistance of AI ("Freebuff" (https://freebuff.com)).»
+
+© MakLanDEV — Mit license 
